@@ -46,3 +46,26 @@ body {
 
 }
 
+.Image-container {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+.Image-container img {
+	width: 180%;
+	height: 370px;
+
+}
+
+.text-over-image {
+	position: absolute;
+	top: 75px;
+	left: 40%;
+	transform: translate(-15%);
+	color: black;
+	font-size: 28px;
+
+
+}
+

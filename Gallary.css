@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: rgb(109, 112, 112);
+}
+
+.Image-container {
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+
+.Image-container img {
+	width: 180%;
+	height: 370px;
+
+}
+
+.Image-container img {
+	width: 200%;
+	height: 550px;
+	transition: relative;
+
+}
+
+.text-over-image {
+	position: absolute;
+	top: 150px;
+	left: 45%;
+	transform: translate(-15%);
+	color: white;
+	font-size: 28px;
+
+
+
+}
+
+.Madina img {
+	width: 100%;
+}
