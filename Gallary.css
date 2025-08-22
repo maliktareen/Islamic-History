@@ -5,6 +5,7 @@
 
 body {
 	background-color: rgb(109, 112, 112);
+	background-color: whitesmoke;
 }
 
 .Image-container {
@@ -38,6 +39,12 @@ body {
 
 }
 
-.Madina img {
-	width: 100%;
+#madinaM {
+	color: white;
+	text-align: center;
+	font-size: 150px;
+	font-family: Arial;
+	background-color: #cccc67;
+	margin: 30px;
+
 }
